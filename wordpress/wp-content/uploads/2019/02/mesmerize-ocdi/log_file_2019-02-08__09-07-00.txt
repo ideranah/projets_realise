@@ -1,0 +1,22 @@
+
+---Downloaded files---
+The import files for: Detox Juices were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/projets/wordpress
+Data file = /home/cf/projets/wordpress/wp-content/uploads/2019/02/mesmerize-ocdi/demo-content-import-file_2019-02-08__09-07-00.xml
+Widget file = /home/cf/projets/wordpress/wp-content/uploads/2019/02/mesmerize-ocdi/demo-widgets-import-file_2019-02-08__09-07-00.json
+Customizer file = /home/cf/projets/wordpress/wp-content/uploads/2019/02/mesmerize-ocdi/demo-customizer-import-file_2019-02-08__09-07-00.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

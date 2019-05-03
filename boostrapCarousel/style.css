@@ -1,0 +1,24 @@
+img{
+    width: 300px;
+    height: 300px;
+}
+
+
+.carousel{
+    height: 300px;
+    width: 100%;
+}
+.carousel-inner{
+    background-color: blue;
+}
+.carousel-inner img {
+    margin: auto;
+  }
+
+.carousel-control-next{
+    background-color: red;
+}
+
+.carousel-control-prev{
+    background-color: red;
+}

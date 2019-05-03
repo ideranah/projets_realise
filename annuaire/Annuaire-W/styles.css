@@ -1,0 +1,64 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    height: 450px;
+    margin:0 auto;
+    text-align: center;
+    background-color:rgb(192, 174, 235);
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+h5{
+    margin-bottom: 3px;
+}
+
+input{
+    margin-left: 5px;
+}
+
+
+label{
+    margin-right:10px;
+}
+
+div{
+    margin-bottom: 20px;
+}
+
+
+li{
+    list-style-type: none;
+    border-bottom: 1px solid black;
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    margin-right: 100px;
+    padding-bottom: 20px;
+}
+
+span{
+    vertical-align: 35px;
+}
+
+
+select{
+    vertical-align: 35px;
+    margin-left: 250px;
+}
+
+.liste-inscrits{
+    padding: 20px;
+    border-radius: 50px;
+    margin:0 auto;
+    width: 50%;
+    height: 400px;
+    background-color: gainsboro;
+}

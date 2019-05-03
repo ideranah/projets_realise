@@ -1,0 +1,35 @@
+
+td{
+    width: 100px;
+    height: 100px;
+    font-family: Source sans Pro;
+    text-align: center;
+    font-size: 60px;
+}
+
+
+table {
+    margin: 0 auto;
+}
+.middle-row{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.middle-line {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+p{
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+button{
+    float: right;
+}
+
+.container{
+    margin: 0 auto;
+}

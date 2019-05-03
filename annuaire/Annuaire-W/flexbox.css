@@ -1,0 +1,29 @@
+body{
+    margin:0;
+}
+
+.nav-header{
+    display:flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0;
+    background-color: deepskyblue;
+}
+
+.nav-gauche{
+    display:flex;
+}
+.nav-droite {
+    display:flex;
+}
+
+
+.nav-droite a {
+    display: block;
+    padding: 1em;
+}
+
+.nav-gauche a {
+    display: block;
+    padding: 1em;
+}
